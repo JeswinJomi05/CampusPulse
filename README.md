@@ -1,0 +1,2 @@
+# CampusPulse
+CampusPulse for students
